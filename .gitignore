@@ -1,0 +1,8 @@
+*.gba
+*.gb
+*.gbc
+*.agb
+*.sav
+*.zip
+*.7z
+.DS_Store
